@@ -1,0 +1,4 @@
+files:
+  - source: /**/*.xml
+    translation: /%language%/%original_path%/%file_name%
+    content_segmentation: 0
